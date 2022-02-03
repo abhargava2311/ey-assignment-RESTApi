@@ -1,0 +1,11 @@
+insert into todo(id,description,last_updated,username)
+values(10001,'Go to Bank',sysdate(),'Test');
+
+insert into todo(id,description,last_updated,username)
+values(10002,'Go To walk',sysdate(),'Test');
+
+insert into todo(id,description,last_updated,username)
+values(10003,'Go to Job',sysdate(),'Test');
+
+insert into todo(id,description,last_updated,username)
+values(10004,'Go to Gym',sysdate(),'Test');
